@@ -189,5 +189,3 @@ This project demonstrates:
 * Practical healthcare AI application
 
 
-
-Just tell me the target audience (recruiter / research / startup / enterprise).
