@@ -1,0 +1,57 @@
+# version: "3.8"
+
+# services:
+#   ollama:
+#     image: ollama/ollama
+#     container_name: ollama
+#     ports:
+#       - "11434:11434"
+#     volumes:
+#       - ollama_data:/root/.ollama
+
+#   app:
+#     build: .
+#     ports:
+#       - "8000:8000"
+#     depends_on:
+#       - ollama
+#     environment:
+#       - OLLAMA_BASE_URL=http://ollama:11434/v1
+
+# volumes:
+#   ollama_data:
+
+# # docker exec -it ollama ollama pull llama3.2:3b
+# # https://docs.google.com/document/d/12ODW811VFCcDmAjnQeqFmbBY2b-HVvezkh0bD3DJwIc/edit?usp=sharing
+
+services:
+  # The Ollama Engine (your custom image)
+  ollama:
+    image: bandisaideva98/ollama
+    container_name: ollama
+    ports:
+      - "11434:11434"
+    volumes:
+      - ollama_data:/root/.ollama
+    # Uncomment if using an NVIDIA GPU
+    # deploy:
+    #   resources:
+    #     reservations:
+    #       devices:
+    #         - driver: nvidia
+    #           count: all
+    #           capabilities: [gpu]
+
+  # Your Python RAG Application
+  app:
+    image: bandisaideva98/cancer_rag-app
+    container_name: cancer_rag_app
+    environment:
+      - OLLAMA_HOST=http://ollama:11434
+    depends_on:
+      - ollama
+    ports:
+      - "8000:8000"
+
+volumes:
+  ollama_data:

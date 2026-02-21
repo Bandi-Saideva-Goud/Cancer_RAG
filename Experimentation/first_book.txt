@@ -1,0 +1,1528 @@
+53
+Cancer Simplified
+Understanding the Basics of Cancer
+Dr. Purvish M. Parikh
+MD, DNB, FICP, PhD, ECMO, CPI, MBA
+Editor-in-chief
+Editor in Chief:
+Dr. Purvish M. Parikh
+MD, DNB, FICP, Ph.D., ECMO, CPI, MBA
+Precision Oncologist and Oncology Public Health Specialist
+Imm. Past President, SAARC Federation of Oncologists
+Emeritus Editor - IJC and SAJC
+Editorial Team :
+Dr. Anantbhushan Ranade, Dr. Chetna Bakshi, Dr. Mahesh Sambhus
+MD MD MS, DNB, FICS
+Medical Oncologist Medical Oncologist Surgical Oncologist
+Dr. Amit Bhatt MD, Dr GS Bhattacharyya MD, Dr. Nilesh Lokeshwar
+DNB, FMO, ECMO DNB, Ph.D, MRCP MD, DM
+Medical Oncologist Medical Oncologist Medical Oncologist
+Dr. Amit Parasnis MS, Dr. Girish Phadke, MS Dr. Padmaj Kulkarni MD,
+DNB, MNAMS, FICS Surgical Oncologist DM
+Surgical Oncologist Medical Oncologist
+Dr. Aparna Niphadkar-Joshi Dr. Kamlesh Bokil, MS Dr. Sachin Hingmire MD,
+MD, Onco Pathologist Surgical Oncologist DM, Medical Oncologist
+Dr. Bhagyashree Khaladkar Dr. Kashinath Bangar Dr. Shailesh Bondarde
+MS, DNB, DNB, FIPM MD
+Surgical Oncologist Pain & Palliative Oncologist Medical Oncologist
+Dr. Chetan Deshmukh Dr. Ketaki Kelkar Dr. Swapnil Karnik, MD
+MD, DM, Medical Oncologist MD, Hemato Pathologist Onco Pathologist
+Donation suggested `````.
+ISBN NO 978-81-923972-3-8
+Publisher: JASCAP, Mumbai 400 055
+Printer : Surekha Press, Mumbai 400 019
+Edition : June 2015
+Introduction
+About JASCAP
+JASCAP (Jeet Association for Support to Cancer Patients) is a
+knowledge based NGO registered with the Societies Registration
+Act 1860 vide no. 1359/1996 G.B.B.S.D, Mumbai and the Public
+Charitable Trusts Act, 1950 vide no. 18751, Mumbai. JASCAP
+strives continuously to impart up-to-date and accurate information
+on cancer and its management to individuals afflicted with cancer,
+as well as their caregivers
+Towards this effort, JASCAP manages a bookstall from Tata
+Memorial Hospital, Parel, Mumbai, as well as runs the JASCAP
+Cancer Information Centre. The publications of JASCAP contains
+information on different types of cancer, its diagnoses, treatments
+and psychological aspects in various Indian languages such as
+Hindi, Marathi, Kannada, Gujarati, Bengali, Tamil, Malayalam
+and Telugu besides English.
+Besides Tata memorial Hospital, Parel, the distribution of cancer
+books is also managed from ACTREC, Navi Mumbai, and cancer
+hospitals in Ahmedabad, Baroda, Navsari, Surat, Kolkatta,
+Bangalore, Hyderabad and Chennai.
+By June 2014, JASCAP has provided 200 titles in nine languages
+and sold 250,000 copies. JASCAP's publications are also available
+for free download from its website. For more information regarding
+JASCAP's activities please visit www.jascap.org.
+Donations to JASCAP qualify for Income Tax Exemption (under
+section 80 G(1) of the Income Tax Act, 1961).
+Contents
+Introduction........................................................................................ 1
+Cancer is not one disease ................................................................... 2
+What are normal and cancerous cells?................................................ 2
+Benign and Malignant tumors............................................................. 3
+Diagnosis of cancer............................................................................. 4
+Cancer types ....................................................................................... 5
+Risk factors ......................................................................................... 6
+Warning Signs of Cancer................................................................... 11
+Screening .......................................................................................... 12
+Symptoms......................................................................................... 13
+Investigations.................................................................................... 14
+Staging ............................................................................................ 16
+Treatment.......................................................................................... 16
+Follow up Care................................................................................. 23
+Complementary and Alternate Therapy............................................. 24
+Nutrition and Physical Activity......................................................... 25
+Psychological Support....................................................................... 25
+Ancillary Support.............................................................................. 26
+Cancer Research................................................................................ 26
+Common myths about cancer........................................................... 27
+Resources.......................................................................................... 28
+Glossary............................................................................................ 29
+Contact Us....................................................................................... .40
+Cancer Simplified
+Understanding the Basics of Cancer
+Introduction
+Cancer is a major healthcare challenge worldwide. In India about
+11 lakh new cancer patients are diagnosed every year (Table 1).
+And our current lifestyle suggests that the incidence will continue
+to rise. For instance Breast cancer in Maharashtra has increased by
+25% from 2001 to 2011 and is projected to increase by a further
+by 25% till 2021. Fortunately advances in all facets of healthcare
+management now make it possible to cure increasing number of
+cancer patients. In fact in some parts of the world, 65% of all
+cancers are disease free at 5 year follow up and are labeled as
+cured.
+Table 1: Comparison of population, cancer incidence, cancer
+deaths and cancer prevalence rates in different regions (Noronha
+V et al: South Asian Journal of Cancer 2012).
+Population New Cancer Cancer 5 year cancer Cancer
+Cases/ year Deaths/ year prevalence prevalence
+(adults) as proportion
+per 100,000
+population
+World 6,750,062,000 12,662,554 7,564,802 28,803,200 585.8
+South
+Central Asia 1,728,752,000 1,423,200 979,900 2,682,400 228.7
+SAARC
+Countries 1,659,700,000 1,296,558 887,355 2,439,285
+India 1,247,300,000 948,858 633,455 1,705,085 211.4
+What prevents this from being true in India are misconceptions
+about the disease, the fear of the unknown and the failure to
+complete the intended treatment. This booklet is intended to dispel
+the myths that surround cancer and give you a clear idea of what
+constitutes cancer.
+When you complete reading it you should be able to distinguish
+Cancer Simplified | 1
+between cancerous growths versus non cancerous disease, know
+that each cancer is different (with respect to symptoms, presentation,
+growth rate, pattern of spread, propensity for different organs, type
+of treatment required, response to treatment and chance of cure),
+what is the principle of investigating and treating a cancer and
+what you can do to maximize the benefit from your doctor’s
+treatment.
+Equip yourself with the right knowledge and you can win this battle
+against cancer!
+Cancer is not one disease
+A common mistake that people make is to consider cancer as one
+disease. This is not true. There are more than two hundred different
+types of cancer that affects human beings. Each one causes different
+symptoms and requires a different approach to its management.
+To understand this better, let us take the example of a common
+ailment, chest pain. Acute chest pain can be due to a heart attack
+(myocardial infarction), infection in the lungs (pneumonia),
+indigestion (reflux oesophagitis) or even broken ribcage (fractured
+ribs). You will agree that each of these cannot be treated as one
+disease or expect to have the same outcome.
+In a similar manner no patient with cancer is identical to any other
+one. Hence do not get influenced by what other patients have to
+say or what experiences they have. Protect yourself from such myths
+by carefully reading this, understand the disease and refer to the
+book whenever you have any doubt.
+What are normal and cancerous cells?
+An adult human body has more than a 100 trillion such cells -
+each one being a completely independent functional and structural
+unit. The central nucleus acts like the brain and the rest of the cell
+is the factory that carries out the various functions. Normally, these
+cells grow and divide to repair and replace cells lost during normal
+wear and tear - cells grow old, they die, and new cells take their
+place. This is an orderly process wherein just the right number of
+cells is produced. This is possible because there is cell to cell cross
+talk mediated by chemicals called cytokines. Such cytokines can
+2 | JASCAP
+act on the same cell (Autocrine) or on neighboring cells (paracrine)
+Cancer is nothing but normal human cells that have got transformed
+into diseased ones. So let us first understand what a cell is. The
+human body is made of organs that consist of tissues and their
+smallest unit is the cell. The cell is therefore the building block of
+our body and was named as such way back in 1655.
+When disease occurs, this normal systematic process is disturbed.
+New cells start being produced even when the body does not
+require them. There is abnormal and excessive proliferation of
+these abnormal cells that do not die. This is usually because the
+“switch off” mechanism to stop growth is blocked. Such abnormal
+cells do not undergo cell death (Apoptosis) and ultimately form a
+mass of cells that is seen as an unusual growth (called a tumor).
+What are benign and malignant tumors?
+Not all growths are cancerous. They are generally divided into
+benign (non cancerous) and malignant (cancerous) growths.
+Characteristics of Benign (non cancerous) tumors are:
+• They are rarely life-threatening.
+• They can be removed easily and usually do not grow
+back.
+• They normally do not invade the tissues around them.
+• They do not spread to other parts of the body.
+Features of Malignant (cancer) tumors are:
+• They are potentially life-threatening.
+• Even if removed, they have tendency to grow back.
+• They easily invade and damage nearby tissues and organs.
+• If the cancer is not diagnosed and treated in time, the
+cancer will grow and the cells will typically spread
+(metastasize) to distant parts of the body via the blood
+stream. Cancer cells break away from the original
+(primary) tumor and move away. They not only invade
+neighboring organs but also gain access to the
+bloodstream or the lymphatic system. These cells then
+travel to distant organs and/or regional lymph nodes,
+Cancer Simplified | 3
+and start growing elsewhere. This process of spread far
+and wide using the blood stream or lymphatic system is
+called metastasis.
+How is the diagnosis of cancer confirmed?
+Under the microscope cells usually show a central nucleus,
+surrounding nuclear membrane, outer cytoplasm and then a cell
+wall. The cytoplasm also contains several different organelles that
+help the cell to carry out its intended function.
+These normal cells look different from cancerous cells as seen under
+the microscope.
+For instance normal cells will have an orderly layout and uniform
+shape within the tissues. They will show features of differentiation
+based on the function they have to carry out. Such characteristics
+are easily identified. In the figure below, the normal cells are all
+cuboidal in shape, with a nucleus that is located at one end of the
+cell and have a similar size and shape.
+On the other hand the cancerous cells will be of a different size/
+shape, will not be distributed uniformly, will have a larger nucleus
+and will not show typical features of differentiation necessary for
+organ / tissue function. As they bulge out onto the surface as a
+group, they can become palpable as tumors.
+Special staining, like immunohistochemistry, also helps distinguish
+normal cells from cancer cells. This is based on a differential
+expression of protein particles (antigens, receptors, etc.) either on
+the cell surface or within its cytoplasm. This is how the diagnosis
+of cancer is made. That is why a tissue biopsy is a must for
+confirmation of the diagnosis.
+4 | JASCAP
+Types of Cancers
+There are several ways of dividing the cancers into various types.
+For instance on the basis of growth (Doubling time), organ of origin,
+morphological appearance under the microscope, molecular
+changes (which cannot be seen with the microscope), natural
+history (as known previously based on study of large populations)
+and anticipated response to therapy.
+Currently, cancers are typically divided into various types based
+on the organ or tissue of origin.
+Cancers that originate from the skin or mucosal lining are
+commonly classified as carcinomas. Those that arise from the
+connective tissue, bones or muscles are called sarcomas. And the
+ones that begin in the hematopoietic or lymphatic system are called
+leukemias-lymphomas. Thus, theese consist of three broad
+categories – carcinomas, sarcomas and leukemia-lymphomas.
+In addition the cancer can be further sub-divided based on the
+organ or tissue of origin. For instance whether the carcinomas start
+in the lung or breast can help divide them into Lung Carcinoma or
+Breast Carcinoma.
+Even among the organ specific cancers, it is possible to assign the
+proper category based on the subtype of origin of the malignant
+cell – in lung carcinoma, the tumor can be further divided into
+adenocarcinoma of lung or squamous cell carcinoma of the lung,
+and so on.
+The more detailed the classification of the type of cancer a patient
+has, the better is your doctor’s understanding and hence the better
+is your chance of getting the right treatment. This is the reason
+why your doctor may ask for a repeat biopsy, especially when
+there is some doubt.
+If the cancer is not identified and treated in time, it may spread to
+distant parts of the body. In such circumstances, the tumor cells in
+the new tumor (metastasis) will still retain the pattern and nature
+of the original cancer origin and hence will continue to be called
+by the name of the original (primary) tumor. For instance, if lung
+cancer has spread to the brain, the tumor in the brain will be
+called as metastatic lung cancer (and not brain cancer).
+Cancer Simplified | 5
+Risk Factors
+Why do people get cancer? In most instances it will be difficult to
+pinpoint the exact cause of cancer in a particular individual. From
+past experience and research, it is established that certain factors
+increase the risk of an individual developing cancers (as opposed
+to the general population that does not have this factor). These are
+known as “risk factors”. It is important to remember two points.
+The presence of a risk factor does not mean that the individual
+will surely have cancer, it only makes the chance of getting cancer
+higher. On the other hand the absence of any risk factor does not
+ensure that an individual is protected from developing cancer.
+Sometimes we do not know what has led to cancer in a particular
+individual. Finally risk factors vary from one cancer to another
+and can also vary from one region to another.
+The common risk factors for cancers in general are:
+a) Tobacco
+b) Growing older
+c) Sunlight
+d) Ionizing radiation
+e) Chemicals and other substances
+f) Viruses and bacteria
+g) Hormones
+h) Family history of cancer
+i) Alcohol
+j) Lifestyle - Poor diet, lack of physical activity, or being
+overweight
+Many of these risk factors can be avoided – like tobacco, chemicals,
+hormones, alcohol, and lifestyle. Others may not be under your
+control - such as family history, growing old, viral/ bacterial
+infections, sunlight. The important thing to remember is to protect
+ourselves by staying away from known risk factors whenever
+possible.
+If you have any of such risk factors for cancer, please see a cancer
+doctor or healthcare professional as soon as possible. He can guide
+you about reducing your risk as well as make a schedule for your
+6 | JASCAP
+medical checkups (which may be different from that for people
+who do not have risk factors).
+• Not everything causes cancer.
+• Having one or more risk factors does not mean that you
+will get cancer. Most people who have risk factors never
+develop cancer.
+• Some people are more sensitive than others to the known
+risk factors.
+• Not having above risk factors does not mean that you
+are protected from developing cancers. There are many
+things that we do not know. Risk factors that are currently
+unknown may play a role.
+Tobacco
+In India, tobacco is the number one cause of cancers. It is
+responsible for almost half the cancers in men and only a slightly
+smaller number of cancers in women. It is the most preventable
+cause of death. Using tobacco products (smoking, chewing, etc.)
+or being around tobacco smoke (environmental or secondhand
+smoke) increases the risk of more than 20 different types of cancers.
+Tobacco users are more likely than nonsmokers to develop cancer
+of the lung, mouth, larynx (voice box), esophagus, bladder, kidney,
+throat, stomach, pancreas, or cervix. They also are more likely to
+develop acute myeloid leukemia (cancer that starts in blood cells).
+That is why the government has banned use of gutka in major
+parts of our country. Every six seconds, a person dies due to tobacco
+consumption globally. In India, every day there are 2500 deaths
+directly related to tobacco use.
+Stopping use of tobacco is beneficial in all cases – both before and
+after cancer occurs. Even if someone has been using tobacco for
+many years, quitting will reduce the risk of developing cancers
+significantly. This risk reduction continues for several years. But
+remember the risk for ex-tobacco users will remain higher than
+that for those who have never used tobacco.
+For people who already have/ had cancer, stopping further use of
+tobacco will increase the quality of life, will allow better tolerability
+Cancer Simplified | 7
+of therapy and will also increase chance of survival. Quitting will
+also reduce the chance of getting another cancer.
+There is a lot of help available for people to stop using tobacco.
+Doctors and dentists can prescribe medicines or nicotine
+replacement therapy (gum, patches, lozenges, spray, inhaler). They
+can refer you to the right local programs or trained professionals
+who help people stop using tobacco.
+Growing Older
+Life expectancy of the typical Indian has doubled since
+independence. Today both men and women in our country have
+life expectancy exceeding 62 years. Since risk of developing cancer
+increases with age, it is logical that as we grow older, this risk
+increases. However, it is crucial to remember that cancer can occur
+at any age – including during infancy and childhood; during teens
+and young adulthood; during senior citizenship and after retirement
+too.
+Sunlight
+Ultraviolet (UV) radiation that comes naturally (from the sun) or is
+generated artificially (from sunlamps and tanning booths) can be
+harmful. It leads to accelerated aging of the skin, causes skin damage
+and can ultimately cause skin cancer. This is particularly important
+in the Caucasian population – with white skin. However dark skin
+(melanin pigmentation) does not completely protect us from such
+damage. Hence this remains a risk factor for us (brown skin people)
+too. Common (sensible) precautions recommended to avoid
+exposure to UV radiation include:
+• Avoid the midday sun (from mid-morning to late
+afternoon) whenever possible. Also protect yourself from
+reflected UV radiation – from sand, water, snow, and
+ice. Remember that UV radiation penetrates light
+clothing, windshields, and even glass windows.
+• Thick clothing with long sleeves, long pants, a wide brim
+headgear and sunglasses that absorb UV are
+recommended.
+• Using sunscreen may help prevent skin cancer, but only
+if the sun protection factor (SPF) is adequate. And they
+8 | JASCAP
+protect only as long as they remain uniformly spread on
+the skin. Remember sunscreens cannot replace avoiding
+the sun and/or wearing clothing to protect the skin.
+• Sunlamps and tanning booths are to be avoided as much
+as possible. Please note that they are no safer than
+sunlight.
+Ionizing Radiation
+Ionizing radiation consists of rays from x-rays (and other radiological
+imaging), those entering from outer space, radon gas and
+radioactive fallouts. All of them can lead to cell damage and
+subsequent cancers.
+Medical procedures are necessary and often lifesaving. They can
+also be the most common source of exposure to radiation (other
+than ambient exposure to background radiation in the atmosphere).
+• X-Ray imaging (X-rays, CT Scans, PET Scans, etc.) help
+to delineate the existence and/or extent of diseases inside
+the body. These help the doctors to decide appropriate
+treatment for cancer patients. They also need to be
+repeated at varying intervals for different patients.
+• Cancers are also treated using radiation therapy (high-
+dose radiation) from afar (using large machines;
+teletherapy) or from radioactive substances in direct
+contact with the patient (brachytherapy). This also leads
+to exposure of normal cells to high dose radiation.
+Current treatment techniques allow such exposure to be
+minimized, but it still exists.
+The risk of cancer from low-dose X-rays is extremely
+small. The risk from radiation therapy is slightly higher.
+For both, the benefit nearly always outweighs the small
+risk.
+Other rare possibilities include exposure to Radon
+(radioactive gas sometimes found in mines – it cannot be seen,
+smelt and has no taste) or radioactive fallout (accidents at
+nuclear power plants or use of atomic weapons).
+Chemicals and Other Substances
+Painters, construction workers and those in the chemical industry
+Cancer Simplified | 9
+exposed to asbestos, benzene, Benzedrine, cadmium, nickel, or
+vinyl chloride might have higher risk of cancers. The lay public
+should avoid or be very careful in handling pesticides, used engine
+oil, paint, solvents or other chemicals.
+Viruses and Bacteria
+A small fraction of cancers are caused by these or there is increased
+susceptibility among infected persons having Human papilloma
+viruses (HPVs; cervical and oral cancer), Hepatitis B and hepatitis
+C viruses (Liver cancer), Human T-cell leukemia/lymphoma
+virus (HTLV-1; lymphoma and leukemia), Human
+immunodeficiency virus (HIV; lymphoma and Kaposi’s sarcoma),
+Epstein-Barr virus (EBV; lymphoma), Helicobacter pylori ( stomach
+cancer and lymphoma). Some of these can be prevented by
+appropriate vaccination
+Hormones
+In a few instances, hormones used for illnesses can lead to
+development of or increase in susceptibility to cancers. Use of
+estrogen, progestin and diethylstilbestrol (DES) may lead to such
+a risk.
+Family History of Cancer
+It is uncommon for cancer to run in a family. However, certain
+types of cancer do occur more often in some families than in the
+rest of the population (about 5% of cancers - breast, ovary, prostate,
+and colon). It is important to distinguish between inherited cancers/
+familial cancers (linked to inherited gene changes) versus family
+history of cancers (which may be due to shared lifestyle, habits,
+environment – like passive smoking). In most instances multiple
+cases of cancer in a family are just a matter of chance.
+Genetic testing is sometimes recommended to identify whether a
+family is at higher risk of developing cancers. Remember that just
+the mere presence of an inherited gene does not mean that the
+cancer will definitely occur.
+Alcohol
+Consumption of alcohol increases the risk of cancers of the mouth,
+throat, esophagus, larynx, liver, and breast. The risk increases with
+10 | JASCAP
+the amount of alcohol taken as well as with associated habit of
+using tobacco (in any form). It is recommended that these habits
+should be avoided or discontinued as soon as possible.
+Discontinuing even after cancer has developed will increase the
+chance of responding to therapy and improve survival.
+Poor Diet, Lack of Physical Activity, or Being Overweight
+These three factors are well established as increasing the risk of
+many cancers– especially cancers of the colon, uterus, prostate,
+breast, colon, esophagus, kidney, and uterus.
+A healthy diet, regular exercise and keeping normal body weight
+reduces cancer risk. Eat plenty of foods that are high in fiber,
+vitamins, and minerals (whole-grain breads, cereals, fruits and
+vegetables) on a daily basis. Avoid foods that are high in fat or
+calories (such as sugar, butter, whole milk, fried foods, and red
+meat). Exercise should be a minimum of brisk walking for at least
+30 minutes five or more days a week.
+Warning signs of cancer
+• A lump somewhere on your body
+• Changes in a mole on your skin
+• A cough or hoarseness that won’t go away
+• A change in bowel habits
+• Difficulty in swallowing or continuing indigestion
+• Any abnormal bleeding
+• A sore or ulcer that won’t heal
+• Difficulty passing urine
+• Unexplained weight loss
+• Unexplained pain
+• Feeling very tired all the time
+• Skin changes
+• Unexplained night sweats
+If you or anyone else develops any of the above and they persist, it
+is important to consult a doctor immediately. Not all persons with
+these symptoms or features will have cancer. But the risk is
+Cancer Simplified | 11
+sufficiently high to seek urgent medical attention. Ignoring these
+can lead to spread of cancer into an incurable stage.
+Screening
+Screening is a process by which the general population with no
+symptoms or complaints is tested to find out whether they are
+suffering from cancer or not. This is NOT for a person who has
+any of the above warning signs. Not all types of cancers can be
+identified by screening. Screening is commonly recommended after
+a certain age for cancers of the oral cavity, breast, cervix, colon,
+rectum and prostate. By detecting such cancers when there are no
+symptoms, there is a good chance of identifying them in early
+stage and of curing the patient with less treatment.
+For breast cancer options are: A mammogram is the best tool
+doctors have to find breast cancer early. A mammogram is a picture
+of the breast made with x-rays. The NCI recommends that women
+in their forties and older have mammograms every 1 to 2 years.
+Women who are at higher-than-average risk of breast cancer should
+talk with their health care provider about whether to have
+mammograms before age 40 and how often to have them.
+Cervix: The Pap test (sometimes called Pap smear) is used to check
+cells from the cervix. The doctor scrapes a sample of cells from the
+cervix. A lab checks the cells for cancer or changes that may lead
+to cancer (including changes caused by human papilloma virus,
+the most important risk factor for cancer of the cervix). Women
+should begin having Pap tests 3 years after they begin having sexual
+intercourse, or when they reach age 21 (whichever comes first).
+Most women should have a Pap test at least once every 3 years. An
+alternative to pap test is VIA and VILI. These tests use visual
+inspection after application of a medicinal solution on the cervix.
+It is easy to do and has been shown to be very useful in India.
+Colon and rectum: A number of screening tests are used to
+detect polyps (growths), cancer, or other problems in the colon
+and rectum. People aged 50 and older should be screened. People
+who have a higher-than-average risk of cancer of the colon or
+rectum should talk with their doctor about whether to have
+screening tests before age 50 and how often to have them.
+12 | JASCAP
+Fecal occult blood test: Sometimes cancer or polyps bleed. This
+test can detect tiny amounts of blood in the stool.
+Sigmoidoscopy: The doctor checks inside the rectum and lower
+part of the colon with a lighted tube called a sigmoidoscope. The
+doctor can usually remove polyps through the tube.
+Colonoscopy: The doctor examines inside the rectum and entire
+colon using a long, lighted tube called a colonoscope. The doctor
+can usually remove polyps through the tube.
+Double-contrast barium enema: This procedure involves several
+x-rays of the colon and rectum. The patient is given an enema
+with a barium solution, and air is pumped into the rectum. The
+barium and air improve the x-ray images of the colon and rectum.
+Digital rectal exam: A rectal exam is often part of a routine physical
+exam. The health care provider inserts a lubricated, gloved finger
+into the rectum to feel for abnormal areas. A digital rectal exam
+allows for examination of only the lowest part of the rectum.
+Cologuard: In August 2014, this test was approved as the first non
+invasive DNA screening test for colorectal cancer. However its
+value in Indian patients is yet to be established.
+None of the screening tests is foolproof. Doctors consider many
+factors before they suggest a screening test – some of them are a
+person’s risk for developing certain types of cancer, age, medical
+history, general health, family history, and lifestyle. In addition,
+doctors take into consideration whether the screening test can be
+harmful or have side effects. If you have any doubts, discuss them
+with your healthcare professional.
+Symptoms
+Cancer can cause many different symptoms. These same symptoms
+can also be caused by other diseases. Hence their presence should
+be taken seriously and an oncologist should be consulted without
+wasting time. Some of the important symptoms are:
+• A thickening or lump in the breast or any other part of
+the body
+Cancer Simplified | 13
+• A new mole or a change in size or color of an existing
+mole
+• A sore that does not heal
+• Hoarseness or a cough that does not go away
+• Changes in bowel or bladder habits
+• Discomfort after eating or during swallowing
+• Weight gain or loss with no known reason
+• Unusual bleeding or discharge
+• Feeling weak or very tired
+• Having unexplained fever
+Most often, these symptoms are not due to cancer. They may also
+be caused by benign tumors or other problems. Remember that
+pain is not a feature of early cancer. Waiting till pain develops can
+be dangerous.
+Investigations/ Diagnosis
+If cancer is suspected (either because of a symptom or screening
+test result or even a routine medical examination), your oncologist
+/ doctor will attempt to confirm the diagnosis. This may involve
+additional questions about your personal and family medical
+history, physical examination, blood & other tests (including for
+tumor markers), imaging (x-rays, sonography, CT Scan, MRI Scan,
+PET Scan, bone scan, etc.) or other procedures. Remember the
+confirmation of cancer requires looking at your tissue or cells under
+the microscope in almost all cases.
+Lab Tests
+Samples of blood, urine, or other body fluids can tell the doctor
+whether a specific organ is functioning normally or not. Tumor
+markers can also suggest that the chance of cancer is high. Such
+tests allow your oncologist to decide the next course of action –
+which may include additional tests, a procedure and/or
+commencement of therapy.
+Imaging
+Imaging provides a visual picture of areas inside your body and
+can help tell the oncologist whether an abnormality or tumor exists
+14 | JASCAP
+or not. The tests include one or more of the following:
+X-rays: X-rays are the traditional way of looking at shadows of solid
+organs and bones within your body.
+Sonography: This uses sound waves to get rebound signals (like a
+radar) to see the echo pattern of various tissues inside the body.
+These signals are then converted by the computer into images on
+a screen that your doctor can analyze. Special equipment will
+also allow measurement of flow through hollow organs.
+CT scan: This uses x-rays to provide details of organs as if slices
+have been taken in various directions. This can be done by itself
+or even after a contrast material (such as dye) has been injected
+into you.
+MRI: Here a strong magnet is linked to a computer and different
+settings are used to provide various images. These can help
+distinguish details of any abnormality in difficult to visualize places,
+including near bones. You will see the same organ examined from
+the same direction showing different images (e.g. T1 and T2
+weighted images) based on the settings used.
+PET scan: This is a functional image. It will show the pattern of
+metabolic activity within an organ, based on the nature of a small
+amount of radioactive material given to you. Typically cancer cells
+show abnormally high activity which persists for a longer time
+within the abnormal cells. This imaging is often done in conjunction
+with a CT scan to give a better idea of the nature and extent of the
+cancer.
+Bone scan: This test requires injection of a small amount of a
+specific radioactive material that is picked up by bones. It is
+particularly useful to detect spread to the bones. Generalized
+increased activity may also be seen in a few cancers.
+Only small amounts of carefully calculated radioactivity are
+injected into your body – which usually gets excreted quickly.
+Biopsy
+In almost all cases, doctors will need to do a biopsy to make a
+proper diagnosis of cancer. For this, the doctor will remove a
+Cancer Simplified | 15
+sample of tissue which a pathologist will examine under the under
+a microscope after processing and/ or staining. The sample may
+be removed in several ways:
+With a needle attached to a syringe that is used to suck out cells,
+tissue or fluid.
+With an endoscope (a thin, flexible tube) by which your doctor
+can look at specific areas inside the body and also remove tissue,
+cells or fluid for examination.
+With surgery wherein a part (incisional) or whole (excisional) of
+the tumor is removed for evaluation by the pathologist.
+Staging
+This important step is to identify whether your cancer is in its initial
+stage or has spread locally and/or to distant places (metastasis).
+Such information is vital for your oncologist to select the right
+treatment plan as well as to discuss with you the likely benefit
+from treatment. Additional tests for proper staging may be required
+and will vary significantly from cancer to cancer (tumor
+characteristics) as well as from patient to patient (individual
+susceptibility). It is important that such tests be done as soon as
+possible and that you consult your oncologist as soon as these
+results are available. Delay can result in spread of cancer – making
+its treatment less effective, more complicated, prolonged and
+expensive.
+Treatment
+We encourage all patients with cancer (and their close family
+members) to discuss actively with their oncologists. It is fully justified
+to learn and understand all you can about your disease and
+treatment choices. Because most patients and their family members
+are often stressed and forget important points of discussion, it is
+best to make a list of all your concerns and queries and carry a
+copy of the same for your appointment with the oncologist. Patients
+also tend to remember only a part of what the healthcare
+professional has explained. Taking a responsible member of your
+family with you and taking notes will help in better understanding.
+16 | JASCAP
+Just as it is your doctor’s responsibility to explain to you and answer
+your questions, it is also your responsibility to pay attention to all
+that your doctor is saying. Do not focus only on the points that
+you were hoping to hear. Oncology, like medicine, is not an exact
+science. Each patient behaves differently. What the doctor explains
+is what generally happens to the majority of patients. It could be
+different in your case. Also the oncologist has undergone more
+than 10 years of training besides his personal experience. Just
+because you or your family member has read a lot (e.g. from the
+internet) do not start behaving as if you know everything. After
+you have stated your thoughts or quoted what you read elsewhere,
+concentrate on what the oncologist is saying. His opinion is going
+to be based on significantly more than what information literature
+is available to you or your family. Finally never compare your
+condition to any other patient. Doing so could be the most
+misleading thing for you, since there are so many variables between
+individual patients (even those with the same disease, same stage
+and same treatment schedule).
+Your healthcare professional will ultimately refer you to a cancer
+specialist. There are three broad types of such specialists:
+1. Surgical Oncologists are involved in doing surgery (including
+biopsy);
+2. Medical Oncologists and HematoOncologists treat patients
+with cancer directed systemic therapy (drugs, injections,
+tablets, capsules, etc.); and
+3. Radiation Oncologists that use machines that give out radiation
+to treat cancers (telethreapy and brachytherapy).
+Getting a Second Opinion
+It is not unusual for patients to have doubts when faced with the
+diagnosis of cancer. Several patients do not want to accept the
+diagnosis or its implications. Others are unable to trust their doctor.
+When in doubt, it is reasonable to ask for a second opinion before
+starting treatment. However, time is the essence. Any delay might
+allow your cancer to grow, spread and hence affect your outcome
+and/or chance of cure. Discuss with your oncologist if you want a
+second opinion. Usually your oncologist will be able to recommend
+Cancer Simplified | 17
+another oncologist/ specialist in the same or a different hospital. If
+you have a preference for a specific oncologist or hospital, please
+share this with your oncologist. Do not hesitate to ask your
+oncologist for such a reference letter. This will help ensure that
+the most important points related to your illness are conveyed
+appropriately.
+Cancer Treatment Planning
+Your cancer treatment plan will depend on several factors, including
+but not limited to the type/subtype of cancer, stage of the disease,
+predisposing factors, prior treatment and any other existing illnesses
+(co-morbidities). Oncologists also factor in your age and general
+health.
+The goal of treatment also varies. It can be to cure the cancer,
+control it or to reduce its symptoms for as long as possible. The
+treatment plan is also dynamic and needs to be revised from time
+to time.
+Almost all patients with cancer will require one or more of the
+treatment strategies mentioned below. In rare cases, the oncologist
+may also advise to “wait and watch”. This is also a well-accepted
+strategy under specific conditions.
+Broadly treatment strategies can be divided into local therapy and
+systemic therapy:
+A. Local Therapy(removes or destroys cancer in just one part of
+the body) includes:
+1. Surgical Therapy (domain of Surgical Oncologist).
+a) Biopsy for diagnosis (incisional/ excisional)
+b) Removal of tumor as treatment (conservative/ radical)
+2. Radiation Therapy (domain of Radiation Oncologist)
+a) Teletherapy (radiation given through machines from a
+little distance)
+b) Brachytherapy (radiation given by source in direct contact
+with the body)
+B. Systemic Therapy (sends drugs or substances through the
+18 | JASCAP
+bloodstream to destroy cancer cells all over the body) includes
+(domain of Medical Oncologist).
+1. Chemotherapy,
+2. Hormonal therapy
+3. Targeted therapy
+4. Biological therapy
+5. Stem Cell Transplantation that includes very high doses
+of chemotherapy.
+6. Related drugs/ medications.
+Some cancers respond best to a single type of treatment. Others
+may respond best to a combination of treatments.
+Your oncologist can explain to you treatment choices and the likely
+expected results. You and your doctor can then together agree on
+the treatment plan that is best for you.
+No treatment is possible that will not do some damage to normal
+or healthy tissue. Hence some side effects may occur. These side
+effects depend mainly on the type and extent of the treatment.
+Side effects may not be the same for each person, and they may
+change from one treatment cycle to the other even in the same
+patient and with the same treatment.
+Your treatment plan may also include ways to minimize or avoid
+common side effects. Supportive care is used not only to address
+side effects of therapy, but also to control symptoms (like pain,
+fatigue, nausea) as well as emotional and practical problems.
+Therefore supportive care is an integral part of the cancer treatment
+plan for patients.
+You may want to talk to the doctor about taking part in a clinical
+trial (a research study of new treatment methods). Several new ways
+of treating cancer are being studied and their value evaluated under
+strict regulatory, legal and ethical framework. You may want to
+explore if such an ongoing trial is applicable in your case.
+Surgical Treatment
+In most cases, the surgical oncologist will remove the tumor and
+some normal tissue around it. Removing surrounding normal tissue
+Cancer Simplified | 19
+may help prevent the tumor from recurring or regrowing. The
+surgeon may also remove some nearby lymph nodes, since cancer
+has the propensity to spread by lymphatics as well as blood stream.
+Remember that it takes time to heal after such a surgery. The time
+needed to recover varies from person to person as well as from
+surgery to surgery. The time taken for the surgery or the time taken
+to recover from it has no bearing on your outcome.
+While recovering from surgery, you may feel pain or other
+uncomfortable symptoms. Please discuss this with your healthcare
+professional as early as possible. Taking medicines to control them
+is important and can also help in faster recovery from the surgery.
+Do not tolerate such symptoms on your own without bringing
+them to the notice of your doctors or nurses.
+Some people have the misconception that surgery (or even a biopsy)
+for cancer can lead to spread the disease – with or without exposure
+to air. Cancer progresses on its own at its own pace, which can
+change without any outside factors. Besides, biopsy is a must for
+the correct diagnosis of cancer. Also remember that surgeons use
+special methods and take many steps to prevent cancer cells from
+spreading.
+Radiation Therapy
+Radiation therapy (or radiotherapy) uses high-energy rays to kill
+cancer cells. Most patients needing radiation therapy are given
+external radiation. The first two mentioned below are common
+and the third one is used less often and only in specific cases.
+Teletherapy (External radiation): The radiation comes from a large
+machine outside the body. Most people go to a hospital or clinic
+for treatment 5 days a week for several weeks.
+Brachytherapy (implant or contact radiation): The radiation comes
+from radioactive material placed in seeds, needles, or thin plastic
+tubes that are put in or near the tissue. The patient usually stays in
+the hospital. The implants generally remain in place for several
+days.
+Systemic (internal) radiation: Here liquid or capsules containing
+very carefully calculated dose of radioactive material is given to
+be swallowed or injected into the body. It then travels throughout
+20 | JASCAP
+the body and helps treat cancer or control its pain (especially caused
+by cancer that has spread to the bones).
+Radiation therapy is commonly given daily for five days a week
+for several weeks. It can also be given in a single fraction or multiple
+exposures in a day. There is a lot of computerization to ensure that
+the beam of radiation is administered accurately. Typically this
+requires accurate positioning of the patient on a special table and
+careful focusing of the beam - which takes time.
+In teletherapy, the actual duration of each fraction of radiation is
+only a few minutes. While the radiation is being administered, the
+patient normally does not feel, hear, see or smell the radiation.
+Some patients may hear the hum of the machinery and a few may
+even feel warmth at the site of the radiation – but nothing else.
+Side effects of radiation therapy depend mainly on the dose and
+type of radiation given as well as the part in the body treated. For
+example, radiation to abdomen may cause nausea, vomiting or
+diarrhea. The skin overlying the treated area may become red,
+dry, and tender. All hair in the treated area is likely to be lost –
+maybe even permanently.
+Weakness may be experienced by some patients. This can increase
+a few weeks after the commencement of the radiation. Drinking
+plenty of liquids and adequate rest is important. At the same time,
+it is important to remain active as much as possible.
+Other side effects may also occur. Your radiation oncologist will
+be able to discuss this further as well as give you advice on how to
+avoid, minimize or reduce their effect. Fortunately, most side effects
+go away gradually after the radiation ends.
+Systemic Therapy
+Chemotherapy
+Chemotherapy is the use of drugs (either singly or more often in
+combination) that are used to kill cancer cells anywhere in the
+body. These drugs can be given by various routes – the most
+common being by injection (either as a push or in IV fluids) or
+orally. The drug then enters the circulation and reaches all over
+the body. Chemotherapy drugs are given with careful selection of
+Cancer Simplified | 21
+dose, duration of infusion, days of administration and frequency
+of repeating them. These details make up the chemotherapy
+protocol schedule and it gets repeated in what are called cycles.
+Cycles can be of different durations as well. Generally there is rest/
+recovery period within cycles as well as in between cycles. This
+allows the normal cells in the body to recover. Based on patient,
+drug and schedule factors, chemotherapy may be administered in
+day care or after hospitalization.
+Side effects depend mainly on the specific drugs and the dose –
+being mostly on normal rapidly dividing cells:
+• Blood cells: Hemoglobin (weakness, fatigue), WBCs
+(infections) and Platelets (bleeding).
+• Cells in Skin, Mucosa and Hair: Hair loss, ulcers in
+mouth, change in color of skin.
+• Digestive system Cells: loss of appetite, nausea and
+vomiting, diarrhea.
+• Cells involved in fertility: Some drugs lead to infertility.
+No matter how severe or difficult such side effects are, they are
+usually temporary. The medical oncologist will use means to
+prevent, reduce or minimize risk of such side effects.
+Hormone Therapy
+Cancers dependent on hormones for their growth, may respond to
+hormonal manipulation. Hormone therapy can be given using
+drugs or surgery:
+Drugs: The doctor gives medicine that stops the production of
+certain hormones or prevents the hormones from working.
+Surgery: The surgeon removes organs (such as the ovaries or
+testicles) that make hormones.
+The side effects of hormone therapy are also highly variable and
+may include one or more of the following - weight gain, hot flashes,
+nausea, menstrual irregularity, vaginal dryness (in women) and
+impotence, loss of sexual desire, breast growth or tenderness (in
+men).
+Targeted Therapy
+Currently several drugs are available that specifically target the
+22 | JASCAP
+cancer cells, with minimal effect on normal cells. This is possible
+due to better understanding of the mechanism of how genetic
+changes are driving the growth of cancers. Their use requires careful
+testing in the blood or tumor tissue to identify biomarkers/ molecular
+signals of what is the genetic change that is making the tumor cell
+grow. Such treatment increases chance of cure/ response and is
+often combined with other therapy, especially chemotherapy.
+Hematopoietic (Blood) Stem Cell Transplantation (HSCT)
+Sometimes the cancer needs very high dose systemic therapy to be
+killed. Such high doses will also kill all normal blood forming
+cells and immune cells in the bone marrow. Hence, for the patient
+to recover, normal healthy blood forming stem cells will need to
+be given. This process is called HSCT. The cells to be taken from
+the patient’s own body (autologous) before the high dose therapy
+or from another person (allogeneic).These new cells are given like
+a blood transfusion through a large vein. Over several weeks, new
+blood cells develop from these transplanted stem cells and patients
+stay in the hospital in isolation till recovery is complete.
+Side effects of HSCT include infection, bleeding and related
+complications. If the stem cells are allogeneic, a disease called
+graft-versus-host disease (GVHD) may occur, wherein the donated
+stem cells “identify” the patient’s body as “foreign” and mount an
+immune response against it. GVHD usually affects the liver, skin,
+or digestive tract. GVHD can be severe or even fatal. Doctors use
+drugs to help prevent, treat, or control GVHD.
+Follow-up Care
+Today, with proper and timely detection and care, more than half
+the patients with cancer can be cured. Once the main treatment is
+over and the investigations show that there is no cancer left in the
+body, a follow up plan is necessary. This is because undetected
+cancer cells may still remain in the body after treatment. Hence
+doctors can never be sure that the cancer will not come back.
+Although the cancer seems to be completely removed or destroyed,
+it can return. This is called recurrence.
+Follow up plan is to be tailored to each patient and can be different
+Cancer Simplified | 23
+for patients with the same cancer and the same stage – due to
+individual differences. By finding out whether the cancer has
+returned in a timely manner, second line therapy can be
+administered to improve the chance of response. Your doctor will
+therefore make a follow up plan that may include one or more of
+the following – history of symptoms, physical examination,
+laboratory blood tests, imaging tests like x-rays and other special
+tests. During follow-up exams, the doctor will also keep an eye for
+other problems like side effects from cancer therapy that can arise
+long after treatment.
+Checkups help ensure that patients have the best possible outcome.
+In case patients develop a new health problem before the next
+scheduled visits, they should contact their doctor immediately.
+Complementary and Alternative Medicine(CAM)
+Some people with cancer use non allopathic (non modern systems
+of medicine). This includes ayurvedic, herbal, homeopathic, sidha,
+unani, naturopathy, yoga, acupuncture, meditation, spiritual
+healing, etc.
+• An approach is generally called complementary
+medicine when it is used along with standard treatment
+with modern medicine.
+• An approach is called alternative medicine when it is
+used in place of standard modern medicine treatment.
+Many people say that CAM helps them feel better. However, some
+types of CAM may change the way standard treatment works. These
+changes could be harmful. Other types of CAM could be harmful
+even if used alone. The doctor from modern medicine (Allopathy)
+should not be expected to know about how these other systems of
+medicine are supposed to work. However it is of utmost importance
+that patients share all the information about any other medicine
+they are taking/ planning to take while consulting the cancer
+specialist. Unless this is done, patients may be exposed to serious
+harm that could occur by the interactions between medicines of
+different systems.
+24 | JASCAP
+Nutrition and Physical Activity
+People with cancer have a vital role to play in taking care of
+themselves by eating well and also by maintaining sufficient
+physical activity.
+Maintaining strength and weight of the body requires proper intake
+of calories. Cancer is a major disease and usually increases the
+caloric requirement for patients. Hence eating well is an integral
+part of making sure patients feel better and have sufficient energy.
+Sometimes, especially during or soon after treatment, patients may
+not feel like eating – due to nausea, vomiting or loss of appetite.
+Patients may also be uncomfortable or tired. Foods may also taste
+different. Mouth sores can be an additional problem in others.
+The oncologist, family doctor, dietitian, or other health care
+provider can show what and how to eat well even under such
+circumstances.
+Cancer patients should try to remain active within the limits
+permitted by their disease and advice of their cancer specialist.
+Walking, yoga, swimming, etc. can keep patients fit and energetic.
+Exercise can even help by reducing nausea, stress and pain. Patients
+should ensure that the level of physical activity does not cause
+them to have pain or feel tired. Patients should discuss with their
+doctors before commencing physical exercise as well as if the
+exercise is causing any problems.
+Psychological Support
+It is very common for patients faced with cancer to have anxiety
+and/ or depression. Some patients also go through phases of anger
+and frustration. Most such problems are temporary. Having
+someone to talk to during these times is vital. If the level of these
+problems is high, proper evaluation by a psychologist/ psychiatrist
+is also valuable. There are special questionnaires that can identify
+whether patients need additional help or not. This could be in the
+form of reassurance, explanation about what to expect during the
+course of treatment, relaxation measures and even medication.
+The earlier such expert help is sought, the faster it will work and
+the quicker can there be complete recovery.
+Cancer Simplified | 25
+Ancillary Support
+Patients with cancer sometimes have a lot of questions not related
+directly to their illness or its treatment. Such thoughts can also
+cause concern and anxiety. For instance worrying about the family,
+job, finances and daily routine; concerns about managing side
+effects, hospital stays, and medical bills are also common. Doctors,
+nurses, and other healthcare professionals can answer some of these
+questions – those that are directly related to the treatment, side
+effects and physical activity. Additional help is available from
+psychologists, counselors and social worker. Friends and relatives
+can also be very supportive. In the hospital, talking to other cancer
+patients and their family members may also provide details of other
+support groups that may be available, especially NGOs. In these
+groups, patients or their family members share their experience
+and skills/ resources developed for coping with cancer. While doing
+this, it is vital to remember that each patient is different – what
+works for one patient does not necessarily work for another patient.
+The Promise of Cancer Research
+Not all patients with cancer can be cured today. Hence there is an
+unmet need for improvement. This is possible only by doing
+medical research. All over the world attempts are ongoing to find
+new and better ways to prevent, detect, diagnose, and treat cancer.
+Their true value can only be proven by doing clinical trials in
+patients. This is the most important tool to improve the care and
+cure of cancer patients.
+A clinical trial is the final stages of a very systematic, long and
+careful research process. The potential new drugs/ methods will
+have passed several years of rigorous evaluation in the laboratory
+and animals before being approved for study in human subjects.
+This step is essential to demonstrate whether treatments that work
+well in the lab or in animals will also prove to be of benefit to
+people. Hence clinical trials are needed to find out whether new
+approaches to cancer prevention, detection, diagnosis, and
+treatment are safe and effective.
+It is only through such clinical trials that the chance of cure in
+26 | JASCAP
+cancers has improved dramatically. For instance the five year
+survival of childhood leukemia was 10% in 1960s and currently it
+is more than 95%. Such knowledge and progress against cancer
+would not have been possible without clinical trials. There are
+several lakh patients with cancer who are alive and cured of their
+disease thanks to clinical trials on new drugs.
+People who join clinical trials may be among the first to benefit if
+a new approach turns out to be effective. Studies have clearly
+shown that survival of patients participating in clinical trials is better
+that those who do not participate in such trials. Such participation
+also makes an important contribution by helping medical science
+learn more about cancer and how to prevent, detect, and control
+it. Clinical trials deal with the unknown and hence may pose some
+risks. Researchers will explain such details at the time of offering
+entry into a clinical trial to patients. Patients will have the right to
+ask questions, clarifications and then take a decision on whether
+they want to enroll into a clinical trial or not. The patient’s decision
+is always respected by the entire healthcare team. Irrespective of
+what decision is taken about clinical trial participation, each patient
+continues to receive the best of the treatment.
+People are encouraged to talk to their oncologist whether they are
+eligible for any clinical trial.
+Common myths about cancer
+1. Cancer is not contagious. Cancer itself cannot spread from a
+patient to others. Although being infected with certain viruses
+or bacteria may increase the risk of some types of cancer, no
+one can “catch” cancer from another person. Hence it is
+perfectly safe to share the same room, eat from the same plates
+and use the same towel as any cancer patient. There is no risk
+of getting cancer in this manner.
+2. Hereditary cancers form less than 5% of all cancers. In most
+instances cancer is not due to inherited genes. Family history
+of cancer is different from hereditary cancers. This is because
+families may be sharing other risk factors that can increase
+risk of cancer – like sedentary lifestyle, exposure to smoke/
+tobacco and eating habits (high fat/ caloric food).
+Cancer Simplified | 27
+3. Cancer is not caused by an injury, such as a bump or bruise.
+However a long standing scar (like a keloid) or repeated
+injuries (for example due to constant rubbing by a sharp tooth)
+can lead to a precancerous or cancerous condition. Often an
+injury will first draw attention to the site where injury has
+occurred and hence a pre-existing cancer gets detected.
+Resources
+Besides our website (www.jascap.org), additional information can
+also be found at the following websites:
+www.oncologyindia.org
+www.ismpo.org
+www.sajc.org
+www.indiancancersociety.org
+www.aroi.org
+www.indiansocietyofoncology.org
+www.iasoindia.in
+www.oncologygoldstandard.com
+www.lcca.com
+www.jdhc.info
+www.indianjcancer.com
+28 | JASCAP
+Glossary
+Acupuncture (AK-yoo-PUNK-cher): The technique of inserting thin
+needles through the skin at specific points on the body to control
+pain and other symptoms. It is a type of complementary and
+alternative medicine.
+AIDS: Acquired immunodeficiency syndrome (ah-KWY-erd im-
+YOON-o-de-FISH-en-see SIN-drome). A disease caused by the
+human immunodeficiency virus (HIV). People with AIDS are at an
+increased risk for developing certa in cancers and for infections
+that usually occur only in individuals with a weak immune system.
+Bacteria (bak-TEER-ee-uh): A large group of single cell
+microorganisms. Some cause infections and disease in animals and
+humans. The singular of bacteria is bacterium.
+BCG solution: A form of biological therapy for superficial bladder
+cancer. A catheter is used to place the BCG solution into the
+bladder. The solution contains live, weakened bacteria (bacille
+Calmette- Guérin) that activate the immune system. The BCG
+solution used for bladder cancer is not the same thing as BCG
+vaccine, a vaccine for tuberculosis.
+Benign (beh-NINE): Not cancerous. Benign tumors do not spread
+to tissues around them or to other parts of the body.
+Biological therapy (by-o-LAHJ-i-kul): Treatment to stimulate or
+restore the ability of the immune system to fight infections and
+other diseases. Also used to lessen certain side effects that may be
+caused by cancer treatment. Also known as immunotherapy,
+biotherapy, or biological response modifier (BRM) therapy.
+Biopsy (BY-op-see): The removal of cells or tissues for examination
+by a pathologist. The pathologist may study the tissue under a
+microscope or perform other tests. When only a sample of tissue is
+removed, the procedure is called an incisional biopsy. When an
+entire lump or suspicious area is removed, the procedure is called
+an excisional biopsy. When a sample of tissue or fluid is removed
+with a needle, the procedure is called a needle biopsy, core biopsy,
+or fine-needle aspiration.
+Bone marrow: The soft, sponge-like tissue in the center of most
+Cancer Simplified | 29
+large bones. It produces white blood cells, red blood cells, and
+platelets.
+Brachytherapy (BRAKE-ih-THER-a-pee): A procedure in which
+radioactive material sealed in needles, seeds, wires, or catheters is
+placed directly into or near a tumor. Also called internal radiation,
+implant radiation, or interstitial radiation therapy.
+Cancer: A term for diseases in which abnormal cells divide without
+control. Cancer cells can invade nearby tissues and can spread
+through the bloodstream and lymphatic system to other parts of
+the body. There are several main types of cancer. Carcinoma is
+cancer that begins in the skin or in tissues that line or cover internal
+organs. Sarcoma is cancer that begins in bone, cartilage, fat,
+muscle, blood vessels, or other connective or supportive tissue.
+Leukemia is cancer that starts in blood-forming tissue such as the
+bone marrow, and causes large numbers of abnormal blood cells
+to be produced and enter the bloodstream. Lymphoma and multiple
+myeloma are cancers that begin in the cells of the immune system.
+Cell: The individual unit that makes up the tissues of the body. All
+living things are made up of one or more cells.
+Chemotherapy (kee-mo-THER-a-pee): Treatment with drugs that
+kill cancer.
+Clinical trial: A type of research study that tests how well new
+medical interventions work in people. Such studies test new
+methods of screening, prevention, diagnosis, or treatment of a
+disease. Studies may be carried out in a clinic or other medical
+facility. Also called a clinical study.
+Colonoscopy (ko-lun-AHS-ko-pee): An examination of the inside
+of the colon using a thin, lighted tube (called a colonoscope)
+inserted into the rectum. If abnormal areas are seen, tissue can be
+removed and examined under a microscope to determine whether
+disease is present.
+Complementary and alternative medicine: CAM.
+Forms of treatment that are used in addition to (complementary)
+or instead of (alternative) standard
+30 | JASCAP
+treatments. These practices generally are not considered standard
+medical approaches. Standard
+treatments have gone through a long and careful research process
+to prove they are safe and effective, but less is known about CAM.
+CAM may include dietary supplements, megadose vitamins, herbal
+preparations, special teas, acupuncture, massage therapy, magnet
+therapy, spiritual healing, and meditation.
+CT scan: Computed tomography scan. A series of detailed pictures
+of areas inside the body taken from different angles; the pictures
+are created by a computer linked to an x-ray machine. Also called
+computerized tomography and computerized axial tomography
+(CAT) scan.
+Diethylstilbestrol (dye-ETH-ul-stil-BES-trol): DES. A synthetic form
+of the hormone estrogen that was prescribed to pregnant women
+between about 1940 and 1971 because it was thought to prevent
+miscarriages. DES may increase the risk of uterine, ovarian, or breast
+cancer in women who took it. DES also has been linked to an
+increased risk of clear cell carcinoma of the vagina or cervix in
+daughters exposed to DES before birth.
+Dietitian: A health professional with special training in nutrition
+who can help with dietary choices. Also called a nutritionist.
+Digestive tract (dye-JES-tiv): The organs through which food and
+liquids pass when they are swallowed, digested, and eliminated.
+These organs are the mouth, esophagus, stomach, small and large
+intestines, and rectum.
+Digital rectal exam: DRE. An examination in which a doctor inserts
+a lubricated, gloved finger into the rectum to feel for abnormalities.
+Double-contrast barium enema: A procedure in which x-rays of
+the colon and rectum are taken after a liquid containing barium is
+put into the rectum. Barium is a silver-white metallic compound
+that outlines the colon and rectum on an x-ray and helps show
+abnormalities. Air is put into the rectum and colon to further
+enhance the x-ray.
+Epstein-Barr virus: EBV. A common virus that remains dormant in
+most people. It has been associated with certain cancers, including
+Cancer Simplified | 31
+Burkitt’s lymphoma, immunoblastic lymphoma, and
+nasopharyngeal carcinoma.
+Estrogen (ES-tro-jin): A hormone that promotes the development
+and maintenance of female sex characteristics.
+Excisional biopsy (ek-SI-zhun-al BY-op-see): A surgical procedure
+in which an entire lump or suspicious area is removed for diagnosis.
+The tissue is then examined under a microscope.
+External radiation (ray-dee-AY-shun): Radiation therapy that uses
+a machine to aim high-energy rays at the cancer. Also called
+external-beam radiation.
+Fecal occult blood test (FEE-kul o-KULT): FOBT. A test to check
+for blood in stool. (Fecal refers to stool; occult means hidden.)
+Fertility (fer-TIL-i-tee): The ability to produce children.
+Gene: The functional and physical unit of heredity passed from
+parent to offspring. Genes are pieces of DNA, and most genes
+contain the information for making a specific protein.
+Genetic testing: Analyzing DNA to look for a genetic alteration
+that may indicate an increased risk for developing a specific disease
+or disorder.
+Helicobacter pylori (HEEL-ih-ko-BAK-ter pye-LOR-ee): H. pylori.
+Bacteria that cause inflammation and ulcers in the stomach and
+small intestine.
+Hematologist (hee-ma-TOL-o-jist): A doctor who specializes in
+treating blood disorders.
+Hepatitis B virus: A virus that causes hepatitis (inflammation of the
+liver). It is carried and passed to others through blood or sexual
+contact. Also, infants born to infected mothers may become
+infected with the virus.
+Hepatitis C virus: A virus that causes hepatitis (inflammation of the
+liver). It is carried and passed to others through blood or sexual
+contact. Also, infants born to infected mothers may become
+infected with the virus.
+32 | JASCAP
+Hormone: A chemical made by glands in the body. Hormones
+circulate in the bloodstream and control the actions of certain
+cells or organs. Some hormones can also be made in a laboratory.
+Hormone therapy: Treatment that adds, blocks, or removes
+hormones. For certain conditions (such as diabetes or menopause),
+hormones are given to adjust low hormone levels. To slow or stop
+the growth of certain cancers (such as prostate and breast cancer),
+hormones may be given to block the body’s natural hormones.
+Sometimes surgery is needed to remove the gland that makes
+hormones. Also called hormonal therapy, hormone treatment, or
+endocrine therapy.
+Human herpes virus 8: HHV8. A member of the herpes family of
+viruses. It is a risk factor for Kaposi’s sarcoma, a rare cancer that
+can cause skin lesions.
+Human immunodeficiency virus: HIV. The cause of acquired
+immunodeficiency syndrome (AIDS).
+Human papilloma virus (pap-ih-LO-ma-VYE-rus): HPV. A virus that
+causes abnormal tissue growth (warts) and is associated with some
+types of cancer.
+Human T-cell leukemia virus type 1: A retrovirus that infects T
+cells (a type of white blood cell) and can cause leukemia and
+lymphoma. HTLV-1 is spread by sharing syringes or needles used
+to inject drugs, through sexual contact, and from mother to child
+at birth or through breast-feeding.
+Imaging procedure: A method of producing pictures of areas inside
+the body.
+Implant radiation (ray-dee-AY-shun): A procedure in which
+radioactive material sealed in needles, seeds, wires, or catheters is
+placed directly into or near a tumor. Also called brachytherapy,
+internal radiation, or interstitial radiation.
+Incisional biopsy (in-SIH-zhun-al BY-op-see): A surgical procedure
+in which a portion of a lump or suspicious area is removed for
+diagnosis. The tissue is then examined under a microscope.
+Infection: Invasion and multiplication of germs in the body.
+Cancer Simplified | 33
+Infections can occur in any part of the body, and can spread
+throughout the body. The germs may be bacteria, viruses, yeast,
+or fungi. They can cause a fever and other problems, depending
+on where the infection occurs. When the body’s natural defense
+system is strong, it can often fight the germs and prevent infection.
+Cancer treatment can weaken the natural defense system.
+Infertility: The inability to produce children.
+Internal radiation (ray-dee-AY-shun): A procedure in which
+radioactive material sealed in needles, seeds, wires, or catheters is
+placed directly into or near a tumor. Also called brachytherapy,
+implant radiation, or interstitial radiation therapy.
+Ionizing radiation (EYE-ah-NIZE-ing ray-dee-AYshun): A type of
+high-frequency radiation produced by x-ray procedures, radioactive
+substances, rays that enter the Earth’s atmosphere from outer space,
+and other sources. Ionizing radiation can enter cells and lead to
+health risks, including cancer, at certain doses.
+Leukemia (loo-KEE-mee-a): Cancer that starts in blood-forming tissue
+such as the bone marrow, and causes large numbers of blood cells
+to be produced and enter the bloodstream.
+Leukocyte (LOO-ko-site): A white blood cell. Refers to a blood
+cell that does not contain hemoglobin. White blood cells include
+lymphocytes, neutrophils, eosinophils, macrophages, and mast
+cells. These cells are made by bone marrow and help the body
+fight infection and other diseases.
+Local therapy: Treatment that affects cells in the tumor and the
+area close to it.
+Lymph node (limf node): A rounded mass of lymphatic tissue that
+is surrounded by a capsule of connective tissue. Lymph nodes filter
+lymph (lymphatic fluid), and they store lymphocytes (white blood
+cells). They are located along lymphatic vessels. Also called a lymph
+gland.
+Lymphatic system (lim-FAT-ik SIS-tem): The tissues and organs that
+produce, store, and carry white blood cells that fight infections
+and other diseases. This system includes the bone marrow, spleen,
+34 | JASCAP
+thymus, lymph nodes, and lymphatic vessels (a network of thin
+tubes that carry lymph and white blood cells). Lymphatic vessels
+branch, like blood vessels, into all the tissues of the body.
+Lymphoma (lim-FO-ma): Cancer that begins in cells of the immune
+system.
+Malignant (ma-LIG-nant): Cancerous. Malignant tumors can invade
+and destroy nearby tissue and spread to other parts of the body.
+Mammogram (MAM-o-gram): An x-ray of the breast.
+Medical oncologist (MED-i-kul on-KOL-o-jist): A doctor who
+specializes in diagnosing and treating cancer using chemotherapy,
+hormonal therapy, and biological therapy. A medical oncologist
+often is the main health care provider for someone who has cancer.
+A medical oncologist also provides supportive care and may
+coordinate treatment provided by other specialists.
+Melanoma (MEL-ah-NO-ma): A form of skin cancer that arises in
+melanocytes, the cells that produce pigment. Melanoma usually
+begins in a mole.
+Menopausal hormone therapy: Hormones (estrogen, progesterone,
+or both) given to women after menopause to replace the hormones
+no longer produced by the ovaries. Also called hormone
+replacement therapy or HRT.
+Menopause (MEN-o-pawz): The time of life when a woman’s
+menstrual periods stop permanently. Also called “change of life.”
+Metastasis (meh-TAS-ta-sis): The spread of cancer from one part of
+the body to another. A tumor formed by cells that have spread is
+called a “metastatic tumor” or a “metastasis.” The metastatic tumor
+contains cells that are like those in the original (primary) tumor.
+The plural form of metastasis is metastases (meh-TAS-taseez).
+Mole: A benign growth on the skin (usually tan, brown, or flesh-
+colored) that contains a cluster of melanocytes and surrounding
+supportive tissue.
+MRI: Magnetic resonance imaging (mag-NET-ik REZ-o-nans IM-a-
+jing). A procedure in which radio waves and a powerful magnet
+Cancer Simplified | 35
+linked to a computer are used to create detailed pictures of areas
+inside the body. These pictures can show the difference between
+normal and diseased tissue. MRI makes better images of organs
+and soft tissue than other scanning techniques, such as CT or x-
+ray. MRI is especially useful for imaging the brain, spine, the soft
+tissue of joints, and the inside of bones. Also called nuclear
+magnetic resonance imaging.
+Mutation: Any change in the DNA of a cell. Mutations may be
+caused by mistakes during cell division, or they may be caused by
+exposure to DNA-damaging agents in the environment. Mutations
+can be harmful, beneficial, or have no effect. If they occur in cells
+that make eggs or sperm, they can be inherited; if mutations occur
+in other types of cells, they are not inherited. Certain mutations
+may lead to cancer or other diseases.
+Organ: A part of the body that performs a specific function. For
+example, the heart is an organ.
+Pap test: The collection of cells from the cervix for examination
+under a microscope. It is used to detect cancer and changes that
+may lead to cancer. Also called a Pap smear.
+Pathologist (pa-THOL-o-jist): A doctor who identifies diseases by
+studying cells and tissues under a microscope.
+PET scan: Positron emission tomography scan. A procedure in which
+a small amount of radioactive glucose (sugar) is injected into a
+vein, and a scanner is used to make detailed, computerized pictures
+of areas inside the body where the glucose is used. Because cancer
+cells often use more glucose than normal cells, the pictures can be
+used to find cancer cells in the body.
+Polyp (POL-ip): A growth that protrudes from a mucous membrane.
+Primary tumor: The original tumor.
+Progestin (pro-JES-tin): Any natural or laboratorymade substance
+that has some or all of the biologic effects
+If progesterone, a female hormone.
+Quality of life: The overall enjoyment of life. Many clinical trials
+assess the effects of cancer and its treatment on the quality of life.
+36 | JASCAP
+These studies measure aspects of an individual’s sense of well-being
+and ability to carry out various activities.
+Radiation oncologist (ray-dee-AY-shun on-KOLo- jist): A doctor
+who specializes in using radiation to treat cancer.
+Radiation therapy (ray-dee-AY-shun THER-ah-pee): The use of high-
+energy radiation from x-rays, gamma rays, neutrons, and other
+sources to kill cancer cells and shrink tumors. Radiation may come
+from a machine outside the body (external-beam radiation therapy),
+or it may come from radioactive material placed in the body near
+cancer cells (internal radiation therapy, implant radiation, or
+brachytherapy). Systemic radiation therapy uses a radioactive
+substance, such as a radiolabeled monoclonal antibody, that
+circulates throughout the body. Also called radiotherapy.
+Radioactive: (RAY-dee-o-AK-tiv): Giving off radiation.
+Radioactive fallout (RAY-dee-o-AK-tiv): Airborne radioactive
+particles that fall to the ground during and after an atomic bombing,
+nuclear weapons test, or nuclear plant accident.
+Radionuclide scan (RAY-dee-o-NEW-klide): A test that produces
+pictures (scans) of internal parts of the body. The person is given
+an injection or swallows a small amount of radioactive material; a
+machine called a scanner then measures the radioactivity in certain
+organs.
+Radon (RAY-don): A radioactive gas that is released by uranium, a
+substance found in soil and rock.
+Breathing in too much radon can damage lung cells and lead to
+lung cancer.
+Recurrence: The return of cancer, at the same place as the original
+(primary) tumor or in another location, after the tumor had
+disappeared.
+Risk factor: Something that may increase the chance of developing
+a disease. Some examples of risk factors for cancer include age, a
+family history of certain cancers, use of tobacco products, certain
+eating habits, obesity, exposure to radiation or other cancer-causing
+Cancer Simplified | 37
+agents, and certain genetic changes.
+Screening: Checking for disease when there are no symptoms.
+Side effect: A problem that occurs when treatment affects healthy
+tissues or organs. Some common side effects of cancer treatment
+are fatigue, pain, nausea, vomiting, decreased blood cell counts,
+hair loss, and mouth sores.
+Sigmoidoscopy (sig-moid-OSS-ko-pee): Inspection of the lower
+colon using a thin, lighted tube called a sigmoidoscope. Samples
+of tissue or cells may be collected for examination under a
+microscope. Also called proctosigmoidoscopy.
+Sonogram (SAHN-o-gram): A computer picture of areas inside the
+body created by bouncing high-energy sound waves (ultrasound)
+off internal tissues or organs. Also called an ultrasonogram.
+Spiral CT scan: A detailed picture of areas inside the body. The
+pictures are created by a computer linked to an x-ray machine
+that scans the body in a spiral path. Also called helical computed
+tomography.
+Stage: The extent of a cancer within the body. Staging it based on
+the size of the tumor, whether lymph nodes contain cancer, and
+whether the disease has spread from the original site to other parts
+of the body.
+Stem cell: A cell from which other types of cells develop. Blood
+cells develop from blood-forming stem cells.
+Stem cell transplantation: A method of replacing immature blood-
+forming cells that were destroyed by cancer treatment. The stem
+cells are given to the person after treatment to help the bone marrow
+recover and continue producing healthy blood cells.
+Supportive care: Care given to improve the quality of life of patients
+who have a serious or life-threatening disease. The goal of supportive
+care is to prevent or treat as early as possible the symptoms of the
+disease, side effects caused by treatment of the disease, and
+psychological, social, and spiritual problems related to the disease
+or its treatment. Also called palliative care, comfort care, and
+symptom management.
+38 | JASCAP
+Surgeon: A doctor who removes or repairs a part of the body by
+operating on the patient.
+Surgery (SER-juh-ree): A procedure to remove or repair a part of
+the body or to find out whether disease is present. An operation.
+Symptom: An indication that a person has a condition or disease.
+Some examples of symptoms are headache, fever, fatigue, nausea,
+vomiting, and pain.
+Systemic therapy (sis-TEM-ik THER-a-pee): Treatment using
+substances that travel through the bloodstream, reaching and
+affecting cells all over the body.
+Thyroid (THIGH-royd): A gland located beneath the voice box
+(larynx) that produces thyroid hormone. The thyroid helps regulate
+growth and metabolism.
+Tissue (TIH-shoo): A group or layer of cells that are alike and that
+work together to perform a specific function.
+Tumor (TOO-mer): A mass of excess tissue that results from
+abnormal cell division. Tumors perform no useful body function.
+They may be benign (not cancerous) or malignant (cancerous).
+Tumor marker: A substance sometimes found in the blood, other
+body fluids, or tissues. A high level of tumor marker may mean
+that a certain type of cancer is in the body. Examples of tumor
+markers include CA 125 (ovarian cancer), CA 15-3 (breast cancer),
+CEA (ovarian, lung, breast, pancreas, and gastrointestinal tract
+cancers), and PSA (prostate cancer). Also called biomarker.
+Ultrasound: A procedure in which high-energy sound waves
+(ultrasound) are bounced off internal tissues or organs and make
+echoes. The echo patterns are shown on the screen of an ultrasound
+machine, forming a picture of body tissues called a sonogram.
+Also called ultrasonography.
+Ultraviolet radiation (ul-tra-VYE-o-let ray-dee- AY-shun): UV
+radiation. Invisible rays that are part of the energy that comes from
+the sun. UV radiation also comes from sun lamps and tanning
+beds. UV radiation can damage the skin and cause melanoma and
+other types of skin cancer. UV radiation that reaches the Earth’s
+Cancer Simplified | 39
+surface is made up of two types of rays, called UVA and UVB rays.
+UVB rays are more likely than UVA rays to cause sunburn, but
+UVA rays pass deeper into the skin. Scientists have long thought
+that UVB radiation can cause melanoma and other types of skin
+cancer. They now think that UVA radiation also may add to skin
+damage that can lead to skin cancer and cause premature aging.
+For this reason, skin specialists recommend that people use
+sunscreens that reflect, absorb, or scatter both kinds of UV radiation.
+Virtual colonoscopy (ko-lun-AHS-ko-pee): A method under study
+to examine the colon by taking a series of x-rays (called a CT scan)
+and using a high-powered computer to reconstruct 2-D and 3-D
+pictures of the interior surfaces of the colon from these x-rays. The
+pictures can be saved, manipulated to better viewing angles, and
+reviewed after the procedure, even years later. Also called
+computed tomography colography.
+Virus (VYE-rus): A microorganism that can infect cells and cause
+disease.
+X-ray: A type of high-energy radiation. In low doses, x-rays are
+used to diagnose diseases by making pictures of the inside of the
+body. In high doses, x-rays are used to treat cancer.
+Contact Us
+For further information please contact us on 022-6534 5040 on
+Mondays through Fridays 10 am to 5 pm (phone) or
+ganpathykv3@gmail.com or uma2272@gmail.com (email). You
+can also visit our website (www.jascap.org) and download pdf
+copies of our books free of cost.
+40 | JASCAP
+Notes
+Cancer Simplified | 41
+Notes
+42 | JASCAP
+JASCAP: We need your help
+We hope that you found this booklet useful
+To help other patients and their families we need and intend to extend
+our Patient Information Services in many ways.
+Our Trust depends on voluntary donations. Please send your donation
+by cheque or D/D payable in Mumbai in favour of "JASCAP".
+DISCLAIMER
+This book is not intended to replace the opinion and advise
+of your doctor or a healthcare professional. This book is
+only for improved understanding of what your doctor or
+healthcare professional has told you/ will tell you. While
+care has been taken to ensure that this book contains factual
+information, medical science is not mathematics and new
+information is constantly being made available. Hence
+readers are advised to discuss and verify all doubts with their
+treating doctor or healthcare professional. Any statement
+made in this book should not be considered as a
+recommendation or endorsement of any product or
+procedure.
+We will be happy to receive your feedback regarding the
+information in this booklet
+JASCAP
+JEET ASSOCIATION FOR SUPPORT TO CANCER PATIENTS
+Website: www.jascap.org
+MUMBAI OFFICE :
+JASCAP Phone : 91-22-6534 5040
+C/O ABHAY BHAGAT & CO., 91-22-2617 7543
+OFFICE NO.4, "SHILPA", 91-22-2616 0007
+7TH. RD., PRABHAT COLONY, Fax : 91-22-2618 6162
+SANTACRUZ (EAST), e-mail : pkrjascap@gmail.com
+MUMBAI - 400 055. abhay@abhaybhagat.com
+AHMEDABAD : MR. D.K.GOSWAMY,
+1002, LABH, SHUKAN TOWER,
+NEAR JUDGES' BUNGALOWS,
+AHMEDABAD - 380 015.
+Phone :91-79-6522 4287.
+Mobile:93270 10529
+e-mail :dkgoswamy@sify.com
+BANGALORE : MS. SUPRIYA GOPI,
+455, I CROSS,
+HAL III STAGE,
+BANGALORE - 560 075
+Phone :098863 11931
+e-mail :supriyakgopi@yahoo.co.in
+HYDERABAD : MS. SUCHITA DINAKER &
+DR. M. DINAKER, M.D.
+FLAT NO. G4, 1st FLOOR,
+"STERLING ELEGANZA", STREET NO.5,
+NEHRUNAGAR, SECUNDERABAD - 500 026.
+Phone :098492 14690
+e-mail :suchitadinaker@yahoo.co.in
+`````.

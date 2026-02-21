@@ -1,0 +1,4 @@
+.venv/
+cancer_chroma_db/
+data_ingestion/cancer_chroma_db/
+data_ingestion/__pycache__/
