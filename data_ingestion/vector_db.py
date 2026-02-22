@@ -58,12 +58,15 @@ def download_and_extract(idx, drive_link, creds_path):
 
 class Vector_DB:
     def __init__(self):
+        
         self.drive_links = Web_Parser().drive_links
-        self.text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=200)
+        self.text_splitter = RecursiveCharacterTextSplitter(chunk_size=500, chunk_overlap=100)
         self.embedding_model = Embedder().model
         self.creds_path = 'divine-bonbon-381109-4a6b2845d01f.json'
 
-        if os.path.exists(CHROMA_PATH):
+
+
+        if  os.path.exists(CHROMA_PATH):
             shutil.rmtree(CHROMA_PATH)
         
         self.vector_db = Chroma(
