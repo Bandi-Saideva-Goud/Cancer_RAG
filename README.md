@@ -1,28 +1,30 @@
-
-
-# 🧬 Cancer RAG — Oncology Research Assistant
+# 🧬 Cancer RAG — Conversational Oncology Research Assistant
 
 A **Retrieval-Augmented Generation (RAG)** system designed to provide structured, context-grounded responses to cancer-related research queries using curated medical literature.
 
-This project combines:
+This version implements:
 
-* 📚 Vector Database (Chroma)
-* 🔎 Semantic Retrieval (HuggingFace Embeddings)
-* 🤖 Local LLM via Ollama (Llama 3.2)
-* 🌐 Gradio UI
-* 🐳 Fully Containerized (Docker + Docker Compose)
+* 🌐 Streamlit Chat Interface
+* 🔎 Chroma Vector Database
+* 🧠 Dual-Stage Retrieval (Small Embedding + Large Rerank)
+* 🤖 OpenAI GPT Model for Response Generation
+* 💬 Conversational Memory Support
+* 🔐 Environment-based API configuration
 
 ---
 
 ## 🚀 Project Overview
 
-Cancer RAG is an AI-powered oncology research assistant that:
+Cancer RAG is a conversational oncology research assistant that:
 
-* Retrieves relevant information from curated cancer literature
+* Retrieves relevant cancer literature using semantic search
+* Reranks results using a higher-quality embedding model
 * Generates responses strictly grounded in retrieved documents
-* Avoids hallucination via controlled prompt design
-* Provides structured, research-focused explanations
-* Runs fully locally using Ollama (no OpenAI dependency required)
+* Maintains conversational memory across turns
+* Handles greetings and general small talk professionally
+* Avoids hallucinations via strict prompt guardrails
+
+This system is designed for **research and educational use only**.
 
 ---
 
@@ -31,29 +33,101 @@ Cancer RAG is an AI-powered oncology research assistant that:
 ```
 User (Browser)
         ↓
-Gradio Chat UI
+Streamlit Chat UI
         ↓
-Retriever (Chroma Vector DB)
+Chroma Vector Retrieval (Small Embedding)
         ↓
-Top-k Relevant Context
+Top-5 Candidate Chunks
         ↓
-Ollama LLM (Llama 3.2)
+Large Embedding Reranking (Similarity Scoring)
         ↓
-Structured Response
+Final Ordered Context
+        ↓
+OpenAI GPT Model
+        ↓
+Structured, Context-Grounded Response
 ```
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Component        | Technology                             |
-| ---------------- | -------------------------------------- |
-| LLM              | Ollama (Llama 3.2:3b)                  |
-| Embeddings       | sentence-transformers/all-MiniLM-L6-v2 |
-| Vector DB        | Chroma                                 |
-| Framework        | LangChain                              |
-| UI               | Gradio                                 |
-| Containerization | Docker + Docker Compose                |
+| Component       | Technology                                      |
+| --------------- | ----------------------------------------------- |
+| LLM             | OpenAI GPT (e.g., gpt-5-nano-2025-08-07)        |
+| Retrieval Embed | sentence-transformers OR text-embedding-3-small |
+| Rerank Embed    | text-embedding-3-large                          |
+| Vector DB       | Chroma                                          |
+| Framework       | LangChain                                       |
+| UI              | Streamlit                                       |
+| Similarity      | Cosine Similarity (NumPy)                       |
+| Config          | dotenv (.env)                                   |
+
+---
+
+## 🧠 Retrieval Strategy
+
+This project uses a **two-stage retrieval pipeline**:
+
+### 1️⃣ Fast Candidate Retrieval
+
+* Query embedded using:
+
+  * `sentence-transformers/all-MiniLM-L6-v2`
+    **OR**
+  * `text-embedding-3-small`
+* Chroma retrieves top-5 semantically similar chunks.
+
+### 2️⃣ High-Quality Reranking
+
+* Query embedded using `text-embedding-3-large`
+* Each retrieved chunk embedded using `text-embedding-3-large`
+* Cosine similarity computed
+* Chunks reordered by semantic similarity
+
+This approach improves precision while keeping retrieval efficient.
+
+---
+
+## 💬 Conversational Memory
+
+The assistant maintains chat history using Streamlit session state:
+
+* Previous user and assistant messages are appended to the prompt.
+* Context window is dynamically constructed.
+* Enables multi-turn follow-up questions.
+
+Example:
+
+> User: What is chemotherapy?
+> User: What are its side effects?
+
+The second question uses prior conversation context.
+
+---
+
+## 🎯 Prompt Guardrails
+
+The assistant follows strict behavioral rules:
+
+### ✅ General Conversation
+
+* Responds naturally to greetings and small talk.
+* Maintains professional customer-service tone.
+
+### ✅ Cancer-Related Questions
+
+* Answers ONLY using retrieved context.
+* No hallucinations.
+* Structured explanations.
+* No personalized medical advice.
+* Includes disclaimers where appropriate.
+
+### 🚫 Out-of-Scope Questions
+
+If unrelated to cancer:
+
+> "I can only assist with cancer-related questions."
 
 ---
 
@@ -63,23 +137,19 @@ Structured Response
 Cancer_RAG/
 │
 ├── app.py
-├── docker-compose.yml
-├── Dockerfile
 ├── requirements.txt
 │
 ├── data_ingestion/
-│   ├── embedder.py
-│   ├── vector_db.py
-│   ├── web_scraper.py
+│   ├── cancer_chroma_db/   (Persisted Vector Store)
 │
-└── cancer_chroma_db/   (generated at runtime)
+└── .env
 ```
 
 ---
 
 ## ⚙️ Setup & Installation
 
-### 🔹 1️⃣ Clone the Repository
+### 🔹 1️⃣ Clone Repository
 
 ```bash
 git clone https://github.com/Bandi-Saideva-Goud/Cancer_RAG.git
@@ -88,85 +158,87 @@ cd Cancer_RAG
 
 ---
 
-### 🔹 2️⃣ Run with Docker Compose (Recommended)
+### 🔹 2️⃣ Create Virtual Environment
 
 ```bash
-docker compose up --build
+python -m venv .venv
+source .venv/bin/activate   # Mac/Linux
+# OR
+.venv\Scripts\activate      # Windows
 ```
 
-After startup:
+---
 
-Pull the LLM model:
+### 🔹 3️⃣ Install Dependencies
 
 ```bash
-docker exec -it ollama ollama pull llama3.2:3b
+pip install -r requirements.txt
+```
+
+---
+
+### 🔹 4️⃣ Configure Environment Variables
+
+Create `.env` file:
+
+```
+OPENAI_API_KEY=your_openai_api_key
+EMBEDDING_MODEL=text-embedding-3-small
+WEB_LINK='https://jascap.org/cancer-books-pdf/english-books/'
+CHROMA_PATH='./cancer_chroma_db'
+MAX_WORKERS=4
+```
+
+You may also set:
+
+```
+EMBEDDING_MODEL=sentence-transformers/all-MiniLM-L6-v2
+```
+
+---
+
+### 🔹 5️⃣ Run Application
+
+```bash
+python -m streamlit run app.py
 ```
 
 Open in browser:
 
 ```
-http://localhost:8000
+http://localhost:8501
 ```
 
 ---
 
-## 🧠 How It Works
-
-1. User submits a cancer-related query.
-2. Query is embedded using HuggingFace embeddings.
-3. Chroma retrieves top-k semantically similar chunks.
-4. Retrieved context is injected into a structured system prompt.
-5. Ollama (Llama 3.2) generates a grounded response.
-6. Gradio displays the answer.
-
----
-
-## 🎯 Prompt Guardrails
-
-The system enforces:
-
-* Strict context-based answering
-* No hallucinations
-* No medical prescriptions
-* Educational & research use only
-* Structured explanation format
-
----
-
-## 🔒 Security & Best Practices
-
-* No API keys committed
-* Secrets managed via environment variables
-* Vector DB excluded from Git
-* Docker-based reproducibility
-
----
-
-## 📌 Example Use Cases
+## 🧪 Example Use Cases
 
 * Cancer treatment explanation research
-* Chemotherapy overview
-* Oncology educational assistance
-* Medical literature contextual querying
-* Structured academic Q&A
+* Rare cancer investigation queries
+* Oncology literature contextual Q&A
+* Multi-turn research discussions
 
 ---
 
 ## ⚠️ Disclaimer
 
-This system is for research and educational purposes only.
+This system is intended for research and educational purposes only.
+
 It does not provide medical advice, diagnosis, or treatment recommendations.
+
+Always consult qualified healthcare professionals for medical decisions.
 
 ---
 
-## 🧪 Future Improvements
+## 🧠 Future Improvements
 
 * Streaming token responses
-* Citation highlighting
-* RAG evaluation framework
-* GPU-enabled Ollama deployment
-* Advanced hallucination detection
-* Multi-document citation tracking
+* Retrieval score visualization
+* RAG evaluation metrics (Recall@k, MRR)
+* Cross-encoder reranking
+* Context compression
+* Token window management
+* Hallucination detection layer
 
 ---
 
@@ -182,10 +254,12 @@ Focused on LLM Systems, RAG Architectures, and Applied AI
 
 This project demonstrates:
 
-* End-to-end RAG system design
-* Local LLM integration via OpenAI-compatible API
-* Production-grade containerization
-* Secure ML engineering practices
+* End-to-end conversational RAG system
+* Multi-stage retrieval optimization
+* Embedding-based reranking
+* Memory-aware prompting
+* Secure API-based LLM integration
 * Practical healthcare AI application
+* Production-oriented modular design
 
-
+---
