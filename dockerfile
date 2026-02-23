@@ -18,5 +18,6 @@ ENV EMBEDDING_MODEL=sentence-transformers/all-MiniLM-L6-v2
 ENV WEB_LINK=https://jascap.org/cancer-books-pdf/english-books/
 ENV CHROMA_PATH=./cancer_chroma_db
 ENV MAX_WORKERS=4
+ENV PYTHONUNBUFFERED=1
 
-CMD ["python", "app.py"]
+CMD ["python", "-m", "streamlit", "run", "app.py", "--server.address=0.0.0.0", "--server.port=8000"]
